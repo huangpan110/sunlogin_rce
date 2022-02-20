@@ -10,4 +10,4 @@ sunlogin_rce.exe -H ip //扫描存在的端口
 
 sunlogin_rce.exe -H ip -P rce 端口 -C 命令 //执行命令
 
-大家觉得好用的话，可以点点star
+大家觉得好用的话，可以点star
